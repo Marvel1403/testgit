@@ -1,0 +1,33 @@
+body {
+    background: #2c3338;
+    color: #606468;
+    font: 87.5%/1.5em 'Open Sans', sans-serif;
+    margin: 0;
+}
+
+#container { 
+    width: 90%;
+    margin: 0 auto;
+    padding: 20px 20px 20px 20px;
+}
+#wyniki {
+    width: 300px;
+    background: #515050;
+    padding: 20px 20px 20px 20px;
+    color: #d0d0d0
+}
+.pobierz {
+    background: #39ba57;
+    border: none;
+    padding: 10px 25px 10px 25px;
+    margin: 10px 10px 0px 0px;
+    color: #585858;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    text-shadow: 1px 1px 1px #FFE477;
+    font-weight: bold;
+    box-shadow: 1px 1px 1px #3D3D3D;
+    -webkit-box-shadow:1px 1px 1px #3D3D3D;
+    -moz-box-shadow:1px 1px 1px #3D3D3D;
+}
