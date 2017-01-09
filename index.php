@@ -18,7 +18,7 @@
 
             <h1>Wyniki</h1>
             <div id="wyniki">
-                Brak powiązań z wpisaną frazą !!!
+                Testujemy gita !!!
             </div>
         </div>
 
