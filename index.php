@@ -18,7 +18,7 @@
 
             <h1>Wyniki</h1>
             <div id="wyniki">
-                Testujemy gita !!!
+                To jest juz drugi test gita !!!
             </div>
         </div>
 
