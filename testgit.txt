@@ -1,1 +1,3 @@
 To jest ma³y test :)
+
+A tutaj juz testujemy now¹ ga³¹Ÿ :)
